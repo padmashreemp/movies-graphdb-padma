@@ -1,0 +1,896 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#FAFCFF",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#4C8EDA",
+    "border-width": 2,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "top-right",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#ffffff",
+    "caption-font-size": 18,
+    "caption-font-weight": "normal",
+    "label-position": "outside",
+    "label-display": "bare",
+    "label-color": "#000000",
+    "label-background-color": "#4C8EDA",
+    "label-border-color": "#4C8EDA",
+    "label-border-width": 0,
+    "label-font-size": 23,
+    "label-padding": 2,
+    "label-margin": 2,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 1,
+    "arrow-color": "#A5ABB6",
+    "margin-start": 0,
+    "margin-end": 0,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 10,
+    "type-padding": 2,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 15,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": 240.49447807224794,
+        "y": -322.0394229281155
+      },
+      "caption": "The Matrix",
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix",
+        "tagline": "Welcome to the Real World",
+        "released": "1999"
+      },
+      "style": {
+        "outside-position": "top-right",
+        "node-color": "#73d8ff",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "caption-font-size": 18,
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 1559.1737053941838,
+        "y": -262.92956129079363
+      },
+      "caption": "Something's Gotta Give",
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "Something's Gotta Give",
+        "tagline": "Nothing to lose",
+        "released": "1975"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "caption-font-size": 18,
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 928.3515081380943,
+        "y": 250.75914702159469
+      },
+      "caption": "Ninja Assassin",
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "Ninja Assassin",
+        "tagline": "Prepare to enter a secret world of assassins",
+        "released": "2009"
+      },
+      "style": {
+        "outside-position": "top-right",
+        "node-color": "#73d8ff",
+        "caption-color": "#000000",
+        "label-font-size": 25,
+        "label-position": "outside",
+        "caption-font-size": 18,
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -160.77845986352483,
+        "y": 4.865099237537606
+      },
+      "caption": "Lilly Wachowski",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Lilly Wachowski",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": -195.35516098942944,
+        "y": 250.75914702159469
+      },
+      "caption": "Lana Wachowski",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Lana Wachowski",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": 1559.1737053941838,
+        "y": 29.45830090226167
+      },
+      "caption": "Nancy Meyers",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Nancy Meyers",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": 485.1895409112672,
+        "y": 274.65456740744855
+      },
+      "caption": "James Marshall",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "James Marshall",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 1559.1737053941838,
+        "y": -475.2764364338003
+      },
+      "caption": "Keanu Reeves",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Keanu Reeves",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 1234.1881104887905,
+        "y": -262.92956129079363
+      },
+      "caption": "Jack Nicholson",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Jack Nicholson",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 1851.561567587239,
+        "y": -262.9295612907937
+      },
+      "caption": "Diane Keaton",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Diane Keaton",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": -13.862657867016136,
+        "y": -576.3965588673798
+      },
+      "caption": "Carrie-Anne Moss ",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Carrie-Anne Moss ",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": -160.77845986352483,
+        "y": -322.0394229281155
+      },
+      "caption": "Laurence Fishburne",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Laurence Fishburne",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": 283.3024307025566,
+        "y": -630.3292668484615
+      },
+      "caption": "Hugo Weaving",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": 573.2751162040794,
+        "y": -185.4665409528798
+      },
+      "caption": "Emil Eifrem",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Emil Eifrem",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": 979.994415726782,
+        "y": 4.865099237537606
+      },
+      "caption": "Rick Yune",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Rick Yune",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": 709.5624623891739,
+        "y": 31.97010127267413
+      },
+      "caption": "Ben Miles",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ben Miles",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "caption-position": "inside",
+        "label-position": "outside",
+        "outside-position": "top-right",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 956.444981343123,
+        "y": 486.4798040086677
+      },
+      "caption": "Rain",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Rain",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1234.1881104887905,
+        "y": 297.6767955350165
+      },
+      "caption": "Naomie Harris",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Naomie Harris",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 928.3515081380943,
+        "y": -773.1472633104654
+      },
+      "caption": "V for Vendetta",
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "V for Vendetta",
+        "tagline": "Freedom! Forever!",
+        "released": "2006"
+      },
+      "style": {
+        "outside-position": "top-right",
+        "node-color": "#73d8ff",
+        "caption-color": "#000000",
+        "label-font-size": 25,
+        "label-position": "outside",
+        "caption-font-size": 18,
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1112.478155791024,
+        "y": -1103.3898000542815
+      },
+      "caption": "Stephen Rea",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Stephen Rea",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1347.1354250526756,
+        "y": -1009.9923713495688
+      },
+      "caption": "John Hurt ",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "John Hurt",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": 883.203433581492,
+        "y": -1277.793868273081
+      },
+      "caption": "Natalie Portman",
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Natalie Portman",
+        "born": "1970"
+      },
+      "style": {
+        "node-color": "#fe9200",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "border-width": 3
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": -601.219803881927,
+        "y": -1009.9923713495688
+      },
+      "caption": "The Matrix Revolutions",
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix Revolutions",
+        "tagline": "Everything that has a beginning has an end",
+        "released": "2003"
+      },
+      "style": {
+        "outside-position": "top-right",
+        "node-color": "#73d8ff",
+        "caption-color": "#000000",
+        "label-position": "outside",
+        "caption-font-size": 18,
+        "border-width": 3
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n1",
+      "fromId": "n9",
+      "toId": "n1",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "detail-position": "inline",
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n2",
+      "fromId": "n7",
+      "toId": "n1",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n3",
+      "fromId": "n8",
+      "toId": "n1",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n4",
+      "fromId": "n15",
+      "toId": "n2",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000"
+      }
+    },
+    {
+      "id": "n5",
+      "fromId": "n14",
+      "toId": "n2",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n6",
+      "fromId": "n16",
+      "toId": "n2",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n7",
+      "fromId": "n17",
+      "toId": "n2",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n8",
+      "fromId": "n11",
+      "toId": "n0",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n9",
+      "fromId": "n13",
+      "toId": "n0",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n10",
+      "fromId": "n12",
+      "toId": "n0",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n11",
+      "fromId": "n10",
+      "toId": "n0",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n12",
+      "fromId": "n7",
+      "toId": "n0",
+      "type": "ACTED_IN",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n13",
+      "fromId": "n4",
+      "toId": "n0",
+      "type": "DIRECTED",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n14",
+      "fromId": "n3",
+      "toId": "n0",
+      "type": "DIRECTED",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n15",
+      "fromId": "n5",
+      "toId": "n1",
+      "type": "DIRECTED",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n16",
+      "fromId": "n6",
+      "toId": "n2",
+      "type": "DIRECTED",
+      "properties": {},
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      }
+    },
+    {
+      "id": "n17",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n15",
+      "toId": "n18"
+    },
+    {
+      "id": "n18",
+      "type": "DIRECTED",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n6",
+      "toId": "n18"
+    },
+    {
+      "id": "n19",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n19",
+      "toId": "n18"
+    },
+    {
+      "id": "n21",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n21",
+      "toId": "n18"
+    },
+    {
+      "id": "n22",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n20",
+      "toId": "n18"
+    },
+    {
+      "id": "n23",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n18"
+    },
+    {
+      "id": "n24",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n22"
+    },
+    {
+      "id": "n25",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n22"
+    },
+    {
+      "id": "n26",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n22"
+    },
+    {
+      "id": "n27",
+      "type": "ACTED_IN",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n12",
+      "toId": "n22"
+    },
+    {
+      "id": "n28",
+      "type": "DIRECTED",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n3",
+      "toId": "n22"
+    },
+    {
+      "id": "n29",
+      "type": "DIRECTED",
+      "style": {
+        "arrow-width": 3,
+        "arrow-color": "#000000",
+        "type-font-size": 12
+      },
+      "properties": {},
+      "fromId": "n4",
+      "toId": "n22"
+    }
+  ]
+}
